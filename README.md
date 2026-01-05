@@ -1,7 +1,3 @@
-Here’s a polished, engaging **README-style project description** you can drop straight into GitHub. I’ve kept it professional but narrative-driven, and structured it the way readers expect when landing on a serious analytical repo.
-
----
-
 ## ⚡ Powering the AI Era: An Analysis of U.S. Electric Utilities
 
 The explosive growth of artificial intelligence has triggered a parallel surge in institutional demand for electricity. Over the past three years, this demand has reached levels significant enough to reshape long-term energy strategy in the United States.
@@ -66,10 +62,4 @@ While this exercise is largely academic—given the lack of cross-sector diversi
 
 As AI-driven electricity demand continues to rise, utility companies with scalable infrastructure, favorable energy mixes, and regulatory advantages may play a critical role in the next phase of U.S. energy expansion. This project aims to provide a **data-driven framework** for evaluating those companies and understanding how the grid is evolving under AI-era pressures.
 
----
 
-If you’d like, I can also:
-
-* Make this more **technical** or more **investor-focused**
-* Add a **“Key Findings”** or **“Project Structure”** section
-* Rewrite it in a **shorter, punchier** README format
