@@ -1,6 +1,6 @@
 ## ⚡ Powering the AI Era: An Analysis of U.S. Electric Utilities
 
-The explosive growth of artificial intelligence has triggered a parallel surge in institutional demand for electricity. Over the past three years, this demand has reached levels significant enough to reshape long-term energy strategy in the United States.
+The exponential growth of artificial intelligence has triggered a parallel surge in institutional demand for electricity. Over the past three years, this demand has reached levels significant enough to reshape long-term energy strategy in the United States.
 
 Recent developments point to a potential **nuclear and grid-capacity renaissance**:
 
@@ -8,7 +8,7 @@ Recent developments point to a potential **nuclear and grid-capacity renaissance
 * A deal between **NextEra Energy** and Google to revive the **Duane Arnold** nuclear facility in Iowa
 * An **$80 billion** nuclear investment agreement between the U.S. government and **Westinghouse Electric Company**
 
-These examples highlight a clear trend: whether through nuclear power or broader grid expansion, the U.S. energy system must scale rapidly to meet the demands of AI and the data centers that sustain it.
+These examples highlight a clear trend: whether through nuclear power or broader grid expansion, the U.S. energy system must scale rapidly to meet the demands of AI and their power-hungry corollary: data centers.
 
 ---
 
@@ -50,7 +50,7 @@ For example, all Ameren (AEE) plants appear under its subsidiary *Union Electric
 ## 📈 Portfolio Construction
 
 To complement the fundamental analysis, the project constructs a **Markowitz efficient portfolio** using selected utility stocks.
-While this exercise is largely academic—given the lack of cross-sector diversification—it provides insight into:
+While this exercise is largely academic, given the lack of cross-sector diversification, it provides insight into:
 
 * Risk concentration within the utility sector
 * Volatility reduction through intra-sector allocation
